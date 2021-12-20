@@ -1,7 +1,10 @@
 # COMP550-Final-Project
 
-The data and results are stored in this google drive:
+Studyforrest dataset and results are stored in this google drive:
 https://drive.google.com/drive/folders/1DRLew2uZY8Pvh-sSiKbbUDXzUX2n0v8m
+
+Harry Potter and the Sorcerer's stone dataset is stored in this goole drive:
+https://drive.google.com/drive/folders/1Q6zVCAJtKuLOh-zWpkS3lH8LBvHcEOE8
 
 **Deriving representations of txt from the NLP model:**
 ```
